@@ -8,4 +8,3 @@ Issue Tracker repository for Gladio's great customers.
   2. Make sure your issue isn't reported before.
   3. Make sure you're using latest version of the product.
   4. We accept only English explanations on issues.
-
