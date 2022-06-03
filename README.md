@@ -1,5 +1,5 @@
 # Issue-Tracker
-Issue Tracker repository for Gladio's great customers.
+Issue Tracker repository for great customers of Necron.
 
 **Please read all rules below, before creating an issue.** 
 
